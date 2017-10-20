@@ -1,5 +1,11 @@
 package br.sceweb.servico;
 
+/**Configura o Banco de dados
+ * 
+ * @version 1
+ * @author Lab103
+ *
+ */
 public class ConfiguraDB {
 	String url = "";
 	String driver = "";
